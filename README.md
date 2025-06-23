@@ -8,3 +8,5 @@
 
 ## Clone the Repository:
 
+git clone https://github.com/flash-abhi/TODO-app-REACT.js.git
+cd TODO-app-REACT.js
